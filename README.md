@@ -1,6 +1,6 @@
 #### Simple expression evaluator
 
-Supports +, -, *, /, (), variables and functions.
+Supports +, -, *, /, (), >, >=, ==, !=, <=, <, ?:, variables and functions.
 ```d
 import std.stdio;
 import std.math;
